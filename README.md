@@ -19,7 +19,7 @@ BTW if the SD card doesn't plugged in, it will record for ever
 
 #### *Note
 - This code was built on STM32CubeIDE 1.10.0 🏠
-- You can easyly modify and play with the code in Core/Src/role.c file 🚀
+- You can easily modify and play with the code in Core/Src/role.c file 🚀
 
 
 
