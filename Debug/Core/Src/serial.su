@@ -1,0 +1,8 @@
+../Core/Src/serial.c:12:6:serialInit	24	static
+../Core/Src/serial.c:20:6:serialFlush	16	static
+../Core/Src/serial.c:26:6:serialWrite	16	static
+../Core/Src/serial.c:32:6:serialPrint	100	static
+../Core/Src/serial.c:45:6:serialPrintln	100	static
+../Core/Src/serial.c:59:9:serialRead	24	static
+../Core/Src/serial.c:77:6:serialForcePut	16	static
+../Core/Src/serial.c:88:6:serialClear	24	static

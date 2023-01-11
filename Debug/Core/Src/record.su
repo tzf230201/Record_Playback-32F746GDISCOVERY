@@ -1,0 +1,8 @@
+../Core/Src/record.c:32:17:WavProcess_HeaderInit	16	static
+../Core/Src/record.c:117:17:WavProcess_EncInit	16	static
+../Core/Src/record.c:147:17:WavProcess_HeaderUpdate	16	static
+../Core/Src/record.c:168:20:recordStart	16	static
+../Core/Src/record.c:207:20:recordProcess	24	static
+../Core/Src/record.c:249:20:recordStop	16	static
+../Core/Src/record.c:289:6:BSP_AUDIO_IN_HalfTransfer_CallBack	4	static
+../Core/Src/record.c:296:6:BSP_AUDIO_IN_TransferComplete_CallBack	4	static

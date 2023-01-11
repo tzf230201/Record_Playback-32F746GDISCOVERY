@@ -1,0 +1,13 @@
+../Drivers/BSP/Components/ov5640/ov5640.c:464:6:ov5640_Init	24	static
+../Drivers/BSP/Components/ov5640/ov5640.c:522:6:OV5640_SetLightMode	24	static
+../Drivers/BSP/Components/ov5640/ov5640.c:579:6:OV5640_SetEffect	16	static
+../Drivers/BSP/Components/ov5640/ov5640.c:667:6:OV5640_SetBrightness	16	static
+../Drivers/BSP/Components/ov5640/ov5640.c:737:6:OV5640_SetSaturation	16	static
+../Drivers/BSP/Components/ov5640/ov5640.c:807:6:OV5640_SetContrast	16	static
+../Drivers/BSP/Components/ov5640/ov5640.c:875:6:OV5640_SetHueDegree	16	static
+../Drivers/BSP/Components/ov5640/ov5640.c:969:6:OV5640_MirrorFlipConfig	24	static
+../Drivers/BSP/Components/ov5640/ov5640.c:1012:6:OV5640_ZoomConfig	24	static
+../Drivers/BSP/Components/ov5640/ov5640.c:1048:9:OV5640_GetResolution	24	static
+../Drivers/BSP/Components/ov5640/ov5640.c:1089:6:ov5640_Config	32	static
+../Drivers/BSP/Components/ov5640/ov5640.c:1124:10:ov5640_ReadID	24	static
+../Drivers/BSP/Components/ov5640/ov5640.c:1151:17:ov5640_ConvertValue	24	static

@@ -1,0 +1,12 @@
+../Core/Src/play.c:33:9:AUDIO_StorageParse	88	static
+../Core/Src/play.c:89:9:AUDIO_ShowWavFiles	8	static
+../Core/Src/play.c:107:10:AUDIO_GetWavObjectNumber	4	static
+../Core/Src/play.c:112:20:AUDIO_PLAYER_Init	8	static
+../Core/Src/play.c:129:16:PlayerInit	16	static
+../Core/Src/play.c:149:27:GetFileInfo	80	static
+../Core/Src/play.c:169:20:AUDIO_PLAYER_Start	24	static
+../Core/Src/play.c:207:20:playStart	24	static
+../Core/Src/play.c:232:20:playProcess	24	static
+../Core/Src/play.c:286:6:BSP_AUDIO_OUT_TransferComplete_CallBack	4	static
+../Core/Src/play.c:291:6:BSP_AUDIO_OUT_HalfTransfer_CallBack	4	static
+../Core/Src/play.c:296:20:playStop	8	static

@@ -1,0 +1,3 @@
+../Core/Src/role.c:16:13:LCD_Config	16	static
+../Core/Src/role.c:45:6:roleInit	16	static
+../Core/Src/role.c:77:6:roleNode	40	static

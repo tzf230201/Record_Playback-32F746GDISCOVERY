@@ -1,0 +1,7 @@
+../Drivers/BSP/STM32746G-Discovery/stm32746g_discovery_eeprom.c:143:10:BSP_EEPROM_Init	8	static
+../Drivers/BSP/STM32746G-Discovery/stm32746g_discovery_eeprom.c:166:9:BSP_EEPROM_DeInit	4	static
+../Drivers/BSP/STM32746G-Discovery/stm32746g_discovery_eeprom.c:187:10:BSP_EEPROM_ReadBuffer	32	static
+../Drivers/BSP/STM32746G-Discovery/stm32746g_discovery_eeprom.c:234:10:BSP_EEPROM_WritePage	32	static
+../Drivers/BSP/STM32746G-Discovery/stm32746g_discovery_eeprom.c:269:10:BSP_EEPROM_WriteBuffer	32	static
+../Drivers/BSP/STM32746G-Discovery/stm32746g_discovery_eeprom.c:426:10:BSP_EEPROM_WaitEepromStandbyState	8	static
+../Drivers/BSP/STM32746G-Discovery/stm32746g_discovery_eeprom.c:442:13:BSP_EEPROM_TIMEOUT_UserCallback	4	static
