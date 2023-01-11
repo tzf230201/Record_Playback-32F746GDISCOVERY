@@ -8,6 +8,8 @@ Using STM32F746NG discovery board to record audio by using internal MEMS digital
 BTW if the SD card doesn't plugged in, it will record for ever
 <img src="https://github.com/tzf230201/Record_Playback-32F746GDISCOVERY/blob/main/picture/recording.jpg" height="450" width="680" >
 
+The LCD is indeed broken 😭
+
 ### Playback
 <img src="https://github.com/tzf230201/Record_Playback-32F746GDISCOVERY/blob/main/picture/playing.jpg" height="450" width="680" >
 
@@ -16,9 +18,9 @@ BTW if the SD card doesn't plugged in, it will record for ever
 
 
 #### *Note
-- This code was built on STM32CubeIDE 1.10.0
+- This code was built on STM32CubeIDE 1.10.0 🏠
 - You can easyly modify and play with the code in Core/Src/role.c file 🚀
 
 
 
-Any Question? Please ask me -> teukuzikrifatahillah@gmail.com ✨
+Any Question? Please ask me -> teukuzikrifatahillah@gmail.com 📭
