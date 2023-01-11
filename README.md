@@ -1,4 +1,4 @@
-## audio record and playback on stm32f746 discovery 📝  
+## Audio Record and Playback on STM32F746 Discovery 📝  
 Using STM32F746NG discovery board to record audio by using internal MEMS digital microphone, save it into micro SD card in .wav form and play it back trough the audio line out jack.
 
 ### Harware Diagram
