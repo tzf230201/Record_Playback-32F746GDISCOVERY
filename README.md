@@ -19,6 +19,7 @@ BTW if the SD card doesn't plugged in, it will record for ever
 
 #### *Note
 - This code was built on STM32CubeIDE 1.10.0 🏠
+- Easy Use. This repo can be directly imported as a STM32CubeIDE project
 - You can easily getting started by modify the code in Core/Src/role.c file 🚀
 - Change record duration in Core/Inc/record.h -> DEFAULT_TIME_REC
 
